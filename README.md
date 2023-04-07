@@ -26,7 +26,7 @@ private void Update()
 
 #### Pauseable Simulation Timer
 
-https://github.com/StinkySteak/com.stinkysteak.simulationtimer/blob/main/Gif/PauseableTimer.gif
+![](https://github.com/StinkySteak/com.stinkysteak.simulationtimer/blob/main/Gif/PauseableTimer.gif)
 
 ```csharp
 private PauseableSimulationTimer _timer;
