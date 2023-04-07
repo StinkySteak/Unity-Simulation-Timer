@@ -3,6 +3,9 @@ An Lightweight Efficient Timer for Unity. Inspired by Photon Fusion TickTimer
 ## Usage/Examples
 
 #### Simulation Timer
+
+![](https://github.com/StinkySteak/com.stinkysteak.simulationtimer/blob/main/Gif/DefaultTimer.gif)
+
 ```csharp
 private SimulationTimer _disableTimer;
 
@@ -22,6 +25,9 @@ private void Update()
 ```
 
 #### Pauseable Simulation Timer
+
+https://github.com/StinkySteak/com.stinkysteak.simulationtimer/blob/main/Gif/PauseableTimer.gif
+
 ```csharp
 private PauseableSimulationTimer _timer;
 
